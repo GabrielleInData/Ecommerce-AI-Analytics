@@ -1,6 +1,6 @@
 # Ecommerce-AI-Analytics Final Capstone Project
 
-End-to-end Ecommerce AI capstone applying machine learning, deep learning, computer vision, NLP, LLMs, RAG, and intelligent product retrieval to analyze customer reviews, classify products, and generate AI-powered product descriptions.
+End-to-end Ecommerce AI capstone applying machine learning, deep learning, computer vision, NLP, LLMs, RAG, and intelligent product retrieval to analyze customer reviews sentiment, classify products, and generate AI-powered product descriptions.
 ### Dataset
 
 The project was developed using an Amazon reviews dataset containing approximately 511,485 review records.
